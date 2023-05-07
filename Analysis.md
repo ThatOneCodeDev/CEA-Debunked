@@ -28,6 +28,6 @@ In conclusion, the CEA encryption library is not suitable for use in secure syst
 - [3] Menezes, Alfred J., et al. Handbook of Applied Cryptography. CRC Press, 1996.
 - [4] Koc, Cetin. Cryptographic Engineering. Springer, 2009.
 - [5] Rescorla, Eric. SSL and TLS: Designing and Building Secure Systems. Addison-Wesley Professional, 2001.
-- [6] National Institute of Standards and Technology. Recommendation for Block Cipher Modes of Operation. https://csrc.nist.gov/publications/detail/sp/800-38a/rev-1/final
+- [6] National Institute of Standards and Technology. Recommendation for Block Cipher Modes of Operation. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf
 - [7] National Institute of Standards and Technology. Recommendation for Key Management. https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
 - [8] Bernstein, Daniel J. ChaCha, a variant of Salsa20. https://cr.yp.to/chacha/chacha-20080128.pdf
