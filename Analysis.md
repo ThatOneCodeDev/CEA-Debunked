@@ -22,12 +22,12 @@ Considering the vulnerabilities identified, it is recommended to replace the CEA
 
 In conclusion, the CEA encryption library is not suitable for use in secure systems. Adopting more secure alternatives like TLS, AES, RSA, or XChaCha20 is highly recommended to guarantee the security of the system.
 
-Sources:
-[1] Schneier, Bruce. Applied Cryptography. John Wiley & Sons, 1996.
-[2] National Institute of Standards and Technology. Recommendation for Key Management. https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
-[3] Menezes, Alfred J., et al. Handbook of Applied Cryptography. CRC Press, 1996.
-[4] Koc, Cetin. Cryptographic Engineering. Springer, 2009.
-[5] Rescorla, Eric. SSL and TLS: Designing and Building Secure Systems. Addison-Wesley Professional, 2001.
-[6] National Institute of Standards and Technology. Recommendation for Block Cipher Modes of Operation. https://csrc.nist.gov/publications/detail/sp/800-38a/rev-1/final
-[7] National Institute of Standards and Technology. Recommendation for Key Management. https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
-[8] Bernstein, Daniel J. ChaCha, a variant of Salsa20. https://cr.yp.to/chacha/chacha-20080128.pdf
+## Sources:
+- [1] Schneier, Bruce. Applied Cryptography. John Wiley & Sons, 1996.
+- [2] National Institute of Standards and Technology. Recommendation for Key Management. https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
+- [3] Menezes, Alfred J., et al. Handbook of Applied Cryptography. CRC Press, 1996.
+- [4] Koc, Cetin. Cryptographic Engineering. Springer, 2009.
+- [5] Rescorla, Eric. SSL and TLS: Designing and Building Secure Systems. Addison-Wesley Professional, 2001.
+- [6] National Institute of Standards and Technology. Recommendation for Block Cipher Modes of Operation. https://csrc.nist.gov/publications/detail/sp/800-38a/rev-1/final
+- [7] National Institute of Standards and Technology. Recommendation for Key Management. https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final
+- [8] Bernstein, Daniel J. ChaCha, a variant of Salsa20. https://cr.yp.to/chacha/chacha-20080128.pdf
