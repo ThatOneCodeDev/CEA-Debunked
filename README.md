@@ -1,6 +1,6 @@
 # CEA256 Encryption Library Analysis
 
-This repository contains an analysis of the CEA256 encryption library, with a focus on the version used in the deprecated CEAShimLTSB formerly used in Luna Selfbot. The goal of this analysis is to provide publicly available research into vulnerabilities exhibited by the algorithm, and to serve as a learning opportunity for those interested in cryptography. Analysis can be found via the analysis.md document.
+This repository contains an analysis of the CEA256 encryption library, with a focus on the version used in the deprecated CEAShimLTSB formerly used in Luna Selfbot. The goal of this analysis is to provide publicly available research into vulnerabilities exhibited by the algorithm, and to serve as a learning opportunity for those interested in cryptography. Analysis can be found via the [analysis.md](https://github.com/ThatOneCodeDev/CEA-Debunked/blob/main/Analysis.md) document.
 
 ## Repository Purpose
 It is important to note that this repository is not intended to flame or criticize the creator of the CEA256 algorithm or any software that may have used it. Rather, the goal is to provide a detailed analysis of the algorithm's vulnerabilities and raise awareness of the need for strong encryption practices. It is our hope that this analysis will serve as a learning opportunity for developers and users alike, encouraging them to choose more secure encryption methods in their software and systems.
